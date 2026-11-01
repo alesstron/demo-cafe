@@ -1585,7 +1585,6 @@ button {
   position: relative;
   padding: 22px 22px 24px;
   border-top: 6px solid var(--bleu);
-  border-radius: 0 0 4px 4px;
   background: var(--blanc);
   box-shadow: 0 12px 26px rgba(15, 26, 61, 0.14);
 }
